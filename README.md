@@ -49,7 +49,7 @@ Add features to your Coolray headunit by installing Android apps.
 - Spotify
 - Netflix
 - Launcher
-- Wifi
+- Wifi Settings (to be able to access wifi)
 
 Just search any compatible apks. (I heard you can find some from apkpure or apkmirror 🏴‍☠️)
 
