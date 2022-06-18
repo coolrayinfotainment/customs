@@ -57,7 +57,7 @@ Android 4.3 compatible apps are limited and note that not all are compatible wit
 
 I would suggest to keep the app install to the bare minimum. Our unit is equivalent to a midrange phone around 2012.
 
-**Do not install Google Playstore or any google services. **
+**Do not install Google Playstore or any google services. Might result to crash.**
 
 You could join this telegram group chat to see and download community tested apks for coolray.
 
