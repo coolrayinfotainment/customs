@@ -80,6 +80,7 @@ https://t.me/apkcoolray
 
 ## Tested
 - 2022 Coolray SE Sports | H50.00032
+- 2022 Coolray Sports Limited
 
 ## Support
 Nope, I won't give support personally as I hope this is already a noob friendly guide.
