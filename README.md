@@ -57,6 +57,12 @@ Android 4.3 compatible apps are limited and note that not all are compatible wit
 
 I would suggest to keep the app install to the bare minimum. Our unit is equivalent to a midrange phone around 2012.
 
+**Do not install Google Playstore or any google services. **
+
+You could join this telegram group chat to see and download community tested apks for coolray.
+![t_me-apkcoolray](https://user-images.githubusercontent.com/107626736/174421756-df73d36f-060a-47e9-aa63-9653e952e73a.jpg)
+
+
 ### How to uninstall
 1. Open ES File Manager
 2. From the side menu go to Apps.
@@ -66,7 +72,7 @@ I would suggest to keep the app install to the bare minimum. Our unit is equival
 1. Go to settings and reset factory settings.
 
 ## Notes
-- The script not reflash your headunit, it will just install the ES File Manager.
+- The script will not reflash your headunit, it will just install the ES File Manager, so that you could install apps easier.
 - This can be easily reverted by `resetting to factory settings` from the settings.
 - This will not root your device, unless you install kingroot.
 
