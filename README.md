@@ -15,7 +15,7 @@ Add features to your Coolray headunit by installing Android apps.
 - 1 USB Flashdrive formatted to Fat32.
 - Compatible firmware 84, 93, 96, 20, 22, and 32.
 
-## Overall step
+## Overall steps
 1. Install ES File Manager via ES Installer script.
 2. Install apps via ES File Manager from your flashdrive.
 
@@ -60,8 +60,10 @@ I would suggest to keep the app install to the bare minimum. Our unit is equival
 **Do not install Google Playstore or any google services. **
 
 You could join this telegram group chat to see and download community tested apks for coolray.
-![t_me-apkcoolray](https://user-images.githubusercontent.com/107626736/174421756-df73d36f-060a-47e9-aa63-9653e952e73a.jpg)
 
+<img width="330" alt="image" src="https://user-images.githubusercontent.com/107626736/174421917-335e2a6b-9559-473b-838b-7154b574e018.png">
+
+https://t.me/apkcoolray
 
 ### How to uninstall
 1. Open ES File Manager
